@@ -1,6 +1,6 @@
 # daily-planner
-# Developer: Stephen Moore
-# Origin: Michigan State University Coding Bootcamp
+## Developer: Stephen Moore
+## Origin: Michigan State University Coding Bootcamp
 
 ## Intro
 
