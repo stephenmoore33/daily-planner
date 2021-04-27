@@ -6,7 +6,7 @@
 
 
 ## About this Repo
-
+This is a tool that is best used in the office to organize your daily schedule. Have a meeting at 10am? This will planner will you allow you to add your event to the daily planner, and store it in local storage to be accessed periodiocally throughout the day. Each event added to the planner will be color coded for the time of day. 
 
 ## Table of Contents
 - Index
