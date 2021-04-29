@@ -29,6 +29,32 @@ for (var i = 0; i < elements.length; i++) {
 }
 
 
+for (i = 0; i < times.length; i++) {
+    var changeAP = " PM ";
+    var hourlyColor = "past";
+    var time = timetable[i].hour;
+
+if (timetable[i].hour <= 12 ) {
+    changeAP = " AM ";
+}
+
+if (time > 12) {
+    time -= 12
+}
+
+if (times[i].hour == moment().hour()) {
+    hourlyColor = "present";
+
+} else if (times[i].hour == moment().hour()) {
+    hourlyColor = "future";
+}
+}
+
+
+
+
+
+
 
 
 });
