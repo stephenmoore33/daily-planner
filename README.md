@@ -11,9 +11,9 @@ This is a tool that is best used in the office to organize your daily schedule. 
 ## Table of Contents
 - Index
 
-**screenshot message**
+**Index Page**
 
-![Home page](/assets/images/one.png)
+![Home page](/assets/images/scr.png)
 
 
 
